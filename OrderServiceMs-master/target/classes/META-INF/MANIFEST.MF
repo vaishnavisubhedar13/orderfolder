@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: USER
+Build-Jdk: 11.0.9
+Implementation-Title: OrderMS
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.order
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/OrderMS
+Created-By: Maven Integration for Eclipse
+
